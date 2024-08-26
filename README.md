@@ -6,7 +6,6 @@
 
 Demo Link: (https://www.loom.com/share/afe8221c5d6140b5962f8a211b1aaf3b)
 
-Working Directory Link: (https://github.com/upenn417/5550_Final_Project)
 
 
 ### Overall Introduction:
