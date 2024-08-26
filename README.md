@@ -3,13 +3,6 @@
 
 **Welcome to Seach Team! This is the final project submission for CIS5550(University of Pennsylvania).**
 
-Group Member: 
-
-Fred Qi , 
-
-Yiqi Shi , 
-
-Xinyue Zhang .
 
 Demo Link: (https://www.loom.com/share/afe8221c5d6140b5962f8a211b1aaf3b)
 
