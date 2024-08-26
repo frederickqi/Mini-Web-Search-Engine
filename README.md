@@ -1,7 +1,7 @@
 ![logo_transparent_background](https://user-images.githubusercontent.com/95191538/207745500-f6f7138f-2dd6-449e-ba87-2b14b825c8d0.png)
 
 
-**Welcome to Seach Team! This is the final project submission for CIS5550(University of Pennsylvania).**
+**Welcome to Seach Team!**
 
 
 Demo Link: (https://www.loom.com/share/afe8221c5d6140b5962f8a211b1aaf3b)
